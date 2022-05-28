@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SomSingh23 fresher at `IIIT - Pune`
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning css/javascript/Bootstrap/
-- 💞️ I’m looking to collaborate on Web development projects
+- 👋 Hi, I’m @SomSingh23 Fresher at **`IIIT - Pune`**
+- 😎 I’m interested in Machine Learning / AI / CP / Web Dev
+- 📗 I’m currently learning Data Structures / Object Oriented Programming / C++ / Python
+- 💞️ I’m looking to collaborate on  Object Oriented Programming projects ( **using c++**)
 
 - 📫 How to reach me https://www.linkedin.com/in/som-singh-lodhi-59b5b9226 {message me on Linked-In} 
 
