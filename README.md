@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SomSingh23 Fresher at **`IIIT - Pune`**
+- 👋 Hi, I’m @SomSingh23 Fresher at **`IIIT - PUNE`**
 - 😎 I’m interested in Machine Learning / AI / CP / Web Dev
 - 📗 I’m currently learning Data Structures / Object Oriented Programming / C++ / Python
 - 💞️ I’m looking to collaborate on  Object Oriented Programming projects ( **using c++**)
