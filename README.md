@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somsingh23&show_icons=true&locale=en" alt="somsingh23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somsingh23&" alt="somsingh23" /></p>
-
+<p><img src = "https://activity-graph.herokuapp.com/graph?username=SomSingh23&theme=react-dark&hide_border=true&area=true"/></p>
