@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsingh23&label=Profile%20views&color=0e75b6&style=flat" alt="somsingh23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somsingh23" alt="somsingh23" /></a> </p>
-<img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="170" height="170" align="right"  />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somsingh23&theme=onedark" alt="somsingh23" /></a> </p>
+<img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="165" height="165" align="right"  />
 - 🌱 I’m currently learning **React,Dsa,Python**
 
 - 👨‍💻 All of my projects are available at [https://somsingh23.github.io/website/index.html](https://somsingh23.github.io/website/index.html)
