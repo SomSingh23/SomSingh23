@@ -8,11 +8,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somsingh23&theme=onedark" alt="somsingh23" /></a> </p>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="165" height="165" align="right"  />
-- 🌱 I’m currently learning **React,Dsa,Python**
+
+- 🌱 I’m currently learning <b>DS,CN,CD,AI,JAVA,OS</b>
 
 - 👨‍💻 All of my projects are available at [https://somsingh23.github.io/website/index.html](https://somsingh23.github.io/website/index.html)
 
-- 💬 Ask me about **git,github,c++**
+- 💬 Ask me about **git,github,c++,python,linux**
 
 - 📫 How to reach me **githubsom@gmail.com**
 
@@ -34,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somsingh23&show_icons=true&locale=en" alt="somsingh23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somsingh23&" alt="somsingh23" /></p>
-<p><img src = "https://activity-graph.herokuapp.com/graph?username=SomSingh23&theme=react-dark&hide_border=true&area=true"/></p>
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=SomSingh23&theme=react-dark">
