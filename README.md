@@ -1,6 +1,7 @@
 <img width="1000" alt="awesome_readme_pics" src="https://user-images.githubusercontent.com/91485305/196938698-5406938f-e4e6-4b89-9599-7619342be540.png">
 
-<!-- <h1 align = "center" ><img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/></h1> -->
+<h1 align = "center" ><img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/></h1>
+
 ![gitartwork](gitartwork.svg)
 <h2 align="center">A Second Year CSE Student form IIIT-Pune</h3>
 
