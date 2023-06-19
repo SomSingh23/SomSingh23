@@ -38,4 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SomSingh23&amp;theme=blue-green" alt="somsingh23" /></p></div>
 
 <br>
-<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=SomSingh23&theme=react-dark">
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=SomSingh23&theme=react-dark">
