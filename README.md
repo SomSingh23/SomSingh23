@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomSingh23&theme=juicyfresh&no-bg=true" alt="somsingh23" /></a> </p>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="165" height="165" align="right"  />
 
-- 🌱 I’m currently learning <b>DS,CN,CD,AI,JAVA,OS</b>
+- 🌱 I’m currently learning <b>Docker , AWS and Web Dev</b>
 
 - 👨‍💻 All of my projects are available at [https://somsingh23.github.io/website/index.html](https://somsingh23.github.io/website/index.html)
 
