@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning <b>Docker , AWS and Web Dev</b>
 
-- 👨‍💻 All of my projects are available at [https://somsingh23.github.io/website/index.html](https://somsingh23.github.io/website/index.html)
-
 - 💬 Ask me about **git,github,c++,python,linux**
 
 - 📫 How to reach me **githubsom@gmail.com**
