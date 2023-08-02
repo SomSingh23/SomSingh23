@@ -3,7 +3,7 @@
 <h1 align = "center" ><img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/></h1>
 
 ![gitartwork](gitartwork.svg)
-<h2 align="center">A Second Year CSE Student form IIIT-Pune</h3>
+<h2 align="center">A 3rd Year CSE Student form IIIT-Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsingh23&label=Profile%20views&color=0e75b6&style=flat" alt="somsingh23" /> </p>
 
