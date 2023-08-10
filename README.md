@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning <b>Docker , AWS and Web Dev</b>
 
-- 💬 Ask me about **git,github,c++,python,linux**
+- 💬 Ask me about **Git, Github, C++, Python, Linux**
 
 - 📫 How to reach me **githubsom@gmail.com**
 
