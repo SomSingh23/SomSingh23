@@ -27,7 +27,7 @@
 </p>
 <br>
 <h1 align="center" class="font">Languages and Tools</h1>
-<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=blender,c,nodejs,css,cpp,java,bootstrap,git,github,githubactions,html,js,linux,postgres,py,regex,vim" alt="My Skills"></a></p>
+<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=aws,bootstrap,blender,c,cpp,css,docker,git,github,githubactions,html,java,js,linux,mongodb,nodejs,postgres,py,react,redis,regex,rust,vim,vscode" alt="My Skills"></a></p>
 <br>
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomSingh23&amp;langs_count=7&amp;theme=tokyonight" alt="somsingh23" /></p>
 <br>
