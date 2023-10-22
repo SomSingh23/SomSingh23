@@ -3,12 +3,12 @@
 <h1 align = "center" ><img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/></h1>
 
 ![gitartwork](gitartwork.svg)
-<h2 align="center">A third-year Computer Science Engineering student from IIIT Pune.</h3>
+<h3 align="center">A third-year Computer Science Engineering student from IIIT Pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsingh23&label=Profile%20views&color=0e75b6&style=flat" alt="somsingh23" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomSingh23&theme=juicyfresh&no-bg=true" alt="somsingh23" /></a> </p>
-<img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="165" height="165" align="right"  />
+<img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="66" height="66" align="right"  />
 
 - 🌱 I’m currently learning <b>Docker , AWS and Web Dev</b>
 
@@ -18,7 +18,8 @@
 
 - ⚡ Fun fact **short tempered**
 
-<h2 align="center">Connect with Me 👇</h2>
+<h3 align="center">Connect with me</h3>
+<br>
 <p align="center">
 <a href="https://linkedin.com/in/som-singh-lodhi-59b5b9226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="som-singh-lodhi-59b5b9226" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/som_23_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="som_23_23" height="30" width="40" /></a>
@@ -26,7 +27,8 @@
 <a href="https://auth.geeksforgeeks.org/user/som_singh_lodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="som_singh_lodhi" height="30" width="40" /></a>
 </p>
 <br>
-<h1 align="center" class="font">Languages and Tools</h1>
+<h3 align="center" class="font">Languages and Tools</h3>
+<br>
 <p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=aws,bootstrap,blender,c,cpp,css,docker,git,github,githubactions,html,java,js,linux,mongodb,nodejs,postgres,py,react,redis,regex,rust,vim,vscode" alt="My Skills"></a></p>
 <br>
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomSingh23&amp;langs_count=7&amp;theme=tokyonight" alt="somsingh23" /></p>
