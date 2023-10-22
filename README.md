@@ -1,5 +1,4 @@
 <img width="1000" alt="awesome_readme_pics" src="https://user-images.githubusercontent.com/91485305/196938698-5406938f-e4e6-4b89-9599-7619342be540.png">
-
 <h1 align = "center" ><img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/></h1>
 
 ![gitartwork](gitartwork.svg)
@@ -18,7 +17,7 @@
 
 - ⚡ Fun fact **short tempered**
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">मेरे साथ जुड़ें</h2>
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/som-singh-lodhi-59b5b9226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="som-singh-lodhi-59b5b9226" height="30" width="40" /></a>
@@ -30,6 +29,12 @@
 <h2 align="center" class="font">Languages and Tools</h2>
 <br>
 <p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=aws,bootstrap,blender,c,cpp,css,docker,git,github,githubactions,html,java,js,linux,mongodb,nodejs,postgres,py,react,redis,regex,rust,vim,vscode" alt="My Skills"></a></p>
+<br>
+<h2 align="center" class="font">Holopin Badges</h2>
+<br>
+<a href="https://www.holopin.io/@som_23" target="blank"><img width="1000" alt="holopin_badges" src="https://holopin.me/som_23"></a>
+<br>
+<br>
 <br>
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomSingh23&amp;langs_count=7&amp;theme=tokyonight" alt="somsingh23" /></p>
 <br>
