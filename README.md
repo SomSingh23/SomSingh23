@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **short tempered**
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/som-singh-lodhi-59b5b9226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="som-singh-lodhi-59b5b9226" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 <a href="https://auth.geeksforgeeks.org/user/som_singh_lodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="som_singh_lodhi" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center" class="font">Languages and Tools</h3>
+<h2 align="center" class="font">Languages and Tools</h2>
 <br>
 <p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=aws,bootstrap,blender,c,cpp,css,docker,git,github,githubactions,html,java,js,linux,mongodb,nodejs,postgres,py,react,redis,regex,rust,vim,vscode" alt="My Skills"></a></p>
 <br>
