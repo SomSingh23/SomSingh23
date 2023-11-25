@@ -36,3 +36,6 @@
 
 <br>
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=SomSingh23&theme=react-dark">
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/som-singh-lodhi-59b5b9226/)
