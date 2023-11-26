@@ -7,19 +7,21 @@ A third-year undergraduate at IIIT Pune. I specialize in crafting web services a
 
 <br>
 
-## 👨‍💻 Languages and Tools
+# 💻 Tech Stack:
 <br>
 <p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=aws,bootstrap,blender,c,cpp,css,docker,git,github,githubactions,html,java,js,linux,mongodb,nodejs,postgres,py,react,redis,regex,rust,vim,vscode" alt="My Skills"></a></p>
 
 <br>
 
-## 🌐 Connect with Me
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/som-singh-lodhi-59b5b9226/)
 
 <br>
 
-## 🚀 Recent Activity
+# 📊 GitHub Stats:
 
+<br>
+<img src="https://github-contributor-stats.vercel.app/api?username=SomSingh23&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&hide=B"/>
 <br>
 
 [![SomSingh23's GitHub | Stats](https://stats.quine.sh/SomSingh23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SomSingh23) [![SomSingh23's GitHub | Dependencies](https://stats.quine.sh/SomSingh23/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SomSingh23) 
