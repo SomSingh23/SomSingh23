@@ -18,7 +18,7 @@ I'm a third-year undergraduate at IIIT Pune, and my expertise lies in creating w
 
 <br>
 
-# 📊 GitHub Stats:
+# <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" height='23px' width = '23px' style="margin-top: 10px;" /> GitHub Stats:
 
 <br>
 <img src="https://github-contributor-stats.vercel.app/api?username=SomSingh23&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&hide=B"/>
