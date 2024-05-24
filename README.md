@@ -9,7 +9,7 @@ Hello everyone, I'm Som Singh Lodhi, a third-year undergraduate student at IIIT 
 
 # 💻 Tech Stack:
 <br>
-<p align="center"><a href="https://skills.thijs.gg"><img src="https://skillicons.dev/icons?i=aws,docker,react,express,nodejs,js,yarn,npm,git,github,githubactions,linux,mongodb,mysql,html,css,c,cpp,py,nginx,redis,regex,v,vercel,vscode?theme=dark&perline=8" alt="My Skills"></a></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,docker,react,express,nodejs,js,yarn,npm,git,github,githubactions,linux,mongodb,mysql,html,css,c,cpp,py,nginx,redis,regex,v,vercel,vscode?theme=dark&perline=8" alt="My Skills" draggable="false" ></p>
 
 <br>
 
