@@ -3,7 +3,7 @@
 
 #  <img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" height="50" align="right"  />
-Hello everyone, I'm Som Singh Lodhi, a third-year undergraduate student at IIIT Pune. I am passionate about building web services, enjoy problem-solving, and actively seek open-source projects to contribute to. I have previously made contributions to repositories such as Mongoose (elegant mongodb object modeling for node.js), MDN Content (the content behind MDN Web Docs), Nightwatch and several other projects. I am committed to hard work and helping others, and I thoroughly enjoy exploring new tools and technologies. I have an open-minded approach and a keen interest in understanding the inner workings of things.
+Hello everyone, I'm Som Singh Lodhi, a final year student at IIIT Pune. I am passionate about building web services, enjoy problem-solving, and actively seek open-source projects to contribute to. I have previously made contributions to repositories such as Mongoose (elegant mongodb object modeling for node.js), MDN Content (the content behind MDN Web Docs), Nightwatch and several other projects. I am committed to hard work and helping others, and I thoroughly enjoy exploring new tools and technologies. I have an open-minded approach and a keen interest in understanding the inner workings of things.
 
 <br>
 
