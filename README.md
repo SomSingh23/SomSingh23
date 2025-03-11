@@ -24,13 +24,4 @@ Hello everyone, I'm Som Singh Lodhi, a final year student at IIIT Pune. I am pas
 <img src="https://github-contributor-stats.vercel.app/api?username=SomSingh23&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&hide=B"/>
 <br>
 
-[![SomSingh23's GitHub | Stats](https://stats.quine.sh/SomSingh23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SomSingh23) [![SomSingh23's GitHub | Dependencies](https://stats.quine.sh/SomSingh23/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SomSingh23) 
-
-<br>
-
-[![SomSingh23's GitHub | Topics Over Time](https://stats.quine.sh/SomSingh23/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SomSingh23)
-
-<br>
-
-[![SomSingh23's GitHub | Languages Over Time](https://stats.quine.sh/SomSingh23/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SomSingh23)
 
