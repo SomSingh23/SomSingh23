@@ -23,5 +23,10 @@ Hello everyone, I'm Som Singh Lodhi, a final year student at IIIT Pune. I am pas
 <br>
 <img src="https://github-contributor-stats.vercel.app/api?username=SomSingh23&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&hide=B"/>
 <br>
-
+<a href="https://github.com/somsingh23">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=somsingh23&show_icons=true&rank_icon=github&theme=midnight-purple" />
+</a>
+<a href="https://github.com/somsingh23">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsingh23&theme=midnight-purple&hide=css&layout=donut" />
+</a>
 
