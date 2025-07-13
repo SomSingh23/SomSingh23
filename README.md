@@ -3,8 +3,7 @@
 
 #  <img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Som"/>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" height="50" align="right"  />
-Hello everyone, I'm Som Singh Lodhi, a final year student at IIIT Pune. I am passionate about building web services, enjoy problem-solving, and actively seek open-source projects to contribute to. I have previously made contributions to repositories such as Mongoose (elegant mongodb object modeling for node.js), MDN Content (the content behind MDN Web Docs), Nightwatch and several other projects. I am committed to hard work and helping others, and I thoroughly enjoy exploring new tools and technologies. I have an open-minded approach and a keen interest in understanding the inner workings of things.
-
+Hi, I'm Som Singh Lodhi, a 2025 graduate from IIIT Pune. I'm passionate about building web services, enjoy solving complex problems, and actively contribute to open-source projects. I've made contributions to well-known repositories such as Mongoose (an elegant MongoDB object modeling tool for Node.js), MDN Content (the foundation of MDN Web Docs), Nightwatch, and several others. I have strong problem-solving skills, particularly in areas like graphs and dynamic programming. I'm dedicated to hard work, always eager to help others, and constantly exploring new tools and technologies. With an open-minded approach and a strong curiosity, I love diving deep into how things work.
 <br>
 
 # 💻 Tech Stack:
